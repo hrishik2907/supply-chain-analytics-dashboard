@@ -33,12 +33,12 @@ This dashboard was designed to provide executive-level business insights through
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Executive_Overview.png.png)
 
 ### Product Detail Analysis
-![Product Analysis](Product_analysis.png)
+![Product Analysis](Product_analysis.png.png)
 ### Custom Tooltip
-![Tooltip](Overview_tooltip.png)
+![Tooltip](Overview_tooltip.png.png)
 
 ## Business Insights
 - Skincare products generated the highest estimated profit.
